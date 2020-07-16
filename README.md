@@ -10,7 +10,7 @@ I'm Juan Gonzalez. A systems engineer with a bit of an accidented career path. I
 
 🤝 I like to collaborate in programs of research and knowledge management.
 
-💬 Ask me about things related to learning new things, develop skills on the go, productivity, performance enhancement and making work & life more enjoyable.
+💬 Ask me about things related to learning new things, develop skills on the go, productivity, performance enhancement and the like.
 
 You can reach out to me on 
 <a href="https://twitter.com/juanfrank77"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" alt="Juan F Gonzalez's Twitter Profile"></a>&nbsp;
