@@ -1,6 +1,6 @@
 ## Hello people 👋
 
-<img src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
+<img align="center" src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
 
 I'm Juan Gonzalez. A systems engineer with an accidented career path. I was trained as a back-end developer but I have always been more interested in the user interface and the user interaction with different apps & programs. I want to make stuff look good, be intuitive of use and accessible to people across languages, borders and cultures.
 
