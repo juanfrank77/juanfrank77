@@ -1,28 +1,32 @@
-## Hello people 👋
+# Hello people 👋
 
-<img align="center" src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
+<img align="right" src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
 
-I'm Juan Gonzalez. A systems engineer with an accidented career path. I was trained as a back-end developer but I have always been more interested in the user interface and the user interaction with different apps & programs. I want to make stuff look good, be intuitive of use and accessible to people across languages, borders and cultures.
+I'm Juan Gonzalez. A systems engineer with a kind of accidented career path. I was trained as a back-end developer but I have always been more interested in the user interface and the user interaction with different apps & programs. 
 
-### What I'm doing 
+I want to make stuff look good, be intuitive of use and accessible to people across languages, borders and cultures.
+
+## What I'm doing 
 
 👨‍💻 I’m currently working at a wonderful company called [Globant](https://www.globant.com).
 
 📚 I'm learning more about UI development, functional programming, tech effects on the brain and flow based focus.
 
-### What I use
+## What I use
 
-<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/javascript.svg">
+<img align="left" alt="JavaScript Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/javascript.svg">
 
-<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/react.svg">
+<img align="left" alt="React Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/react.svg">
 
-<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Firefox_logo_2019.svg">
+<img align="left" alt="Firefox Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Firefox_logo_2019.svg">
 
-<img height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
+<img align="left" alt="Ubuntu Logo" height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
 
-<img height="60" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+<img align="left" alt="VSCode Logo" height="60" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
 
-<img height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" alt="Vim logo">
+<img align="left" alt="Vim Logo" height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png"><br><br>
+
+
 
 ## How I can help
 
