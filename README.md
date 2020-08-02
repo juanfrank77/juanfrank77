@@ -13,7 +13,7 @@ I'm Juan Gonzalez. A systems engineer with a bit of an accidented career path. I
 💬 Ask me about things related to learning new things, develop skills on the go, productivity, performance enhancement and the like.
 
 You can reach out to me on 
-<a href="https://twitter.com/juanfrank77"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" alt="Juan F Gonzalez's Twitter Profile"></a>&nbsp;
+<a href="https://twitter.com/juanfrank77"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" alt="Juan F Gonzalez's Twitter Profile"></a>
 
 You can see my (hopefully useful) writings on 
 <a href="https://dev.to/juanfrank77"><img height="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Juan F Gonzalez's DEV Profile"></a>&nbsp;&nbsp;
