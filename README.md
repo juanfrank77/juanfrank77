@@ -16,7 +16,7 @@ You can reach out to me on
 <a href="https://twitter.com/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" alt="Juan F Gonzalez's Twitter Profile"></a>
 
 You can see my (hopefully useful) writings on 
-<a href="https://dev.to/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Juan F Gonzalez's DEV Profile"></a>&nbsp;&nbsp;
+<a href="https://dev.to/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Juan F Gonzalez's DEV Profile"></a>
 
 __Thanks for coming to my little place on Github!__
 <!--
