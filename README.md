@@ -1,16 +1,30 @@
-### Hello people 👋
+## Hello people 👋
 
-I'm Juan Gonzalez. A systems engineer with a bit of an accidented career path. I've always been interested in making apps & programs look good and be intuitive of use.
+I'm Juan Gonzalez. A systems engineer with a weird career path. I was trained as a back-end developer but I have always been more interested in the user interface and the user interaction with different apps & programs. I want to make stuff look good, be intuitive of use and accessible to people across languages, borders and cultures.
 
-### What I'm doing 
+## What I'm doing 
 
 👨‍💻 I’m currently working at a wonderful company called [Globant](https://www.globant.com).
 
-📚 I'm learning more about UI development, ethical design for products and human performance enhanced by technology.
+📚 I'm learning more about UI development, functional programming, tech effects on the brain and flow based focus.
 
-🤝 I like to collaborate in programs of research and knowledge management.
+## What I use
 
-💬 Ask me about things related to learning new things, develop skills on the go, productivity, performance enhancement and the like.
+<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/javascript.svg">
+
+<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/react.svg">
+
+<img height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Firefox_logo_2019.svg">
+
+<img height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
+
+<img height="60" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+
+<img height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" alt="Vim logo">
+
+🤝 I like to collaborate with programs of knowledge management, edtech and everything that makes topics more available to others.
+
+💬 Ask me about: learning new stuff, flow hacks, productivity, performance enhancement and the like.
 
 You can reach out to me on 
 <a href="https://twitter.com/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" alt="Juan F Gonzalez's Twitter Profile"></a>
