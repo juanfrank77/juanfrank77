@@ -2,15 +2,15 @@
 
 <img align="right" src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
 
-I'm Juan Gonzalez. A systems engineer with a kind of accidented career path. I was trained as a back-end developer but I have always been more interested in the user interface and the user interaction with different apps & programs. 
+I'm Juan Gonzalez. A systems engineer with a kind of accidented career path. I have always been more interested in the user interface and its interaction with sites & apps. 
 
-I want to make stuff look good, be intuitive of use and accessible to people across languages, borders and cultures.
+I want to make things look good, be intuitive of use and accessible to people across languages, borders and cultures.
 
 ## What I'm doing 
 
 👨‍💻 I’m currently working at a wonderful company called [Globant](https://www.globant.com).
 
-📚 I'm learning more about UI development, functional programming, tech effects on the brain and flow based focus.
+📚 I'm learning more about UI development, web & human performance, and sharing about these things in my blog.
 
 ## What I use
 
@@ -27,18 +27,13 @@ I want to make stuff look good, be intuitive of use and accessible to people acr
 <img align="left" alt="Vim Logo" height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png"><br><br>
 
 
+## Misc
 
-## How I can help
+🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, growing tech communities in Latam.
 
-🤝 I like to collaborate with programs of knowledge management, edtech and everything that makes topics more available to others.
+💬 Ask me about: learning new things efficiently, overcoming procrastination/distractions/overwhelm, and doing more with less.
 
-💬 Ask me about: learning new stuff, flow hacks, productivity, performance enhancement and the like.
-
-You can reach out to me on 
-<a href="https://twitter.com/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" alt="Juan F Gonzalez's Twitter Profile"></a>
-
-You can see my (hopefully useful) writings on 
-<a href="https://dev.to/juanfrank77"><img align="center" height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" alt="Juan F Gonzalez's DEV Profile"></a>
+You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.com) and reach out on [Twitter](https://twitter.com/juanfrank77)
 
 __Thanks for coming to my little place on Github!__
 
