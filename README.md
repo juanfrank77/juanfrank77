@@ -8,9 +8,9 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 ## What I'm doing 
 
-👨‍💻 I’m currently working at a wonderful company called [Globant](https://www.globant.com).
+👨‍💻 I’m currently working as a Web Engineer at a company called [Huge](https://www.hugeinc.com/).
 
-📚 I'm learning more about UI development, web & human performance, and sharing about these things in my blog.
+📚 I'm learning more about UI development, web apps, accessibility, performance, and other related topics.
 
 ## What I use
 
