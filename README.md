@@ -16,9 +16,7 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 <img align="left" alt="JavaScript Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/javascript.svg">
 
-<img align="left" alt="React Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/react.svg">
-
-<img align="left" alt="Firefox Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Firefox_logo_2019.svg">
+<img align="left" alt="Edge Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Microsoft_Edge_logo_2019.svg">
 
 <img align="left" alt="Ubuntu Logo" height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
 
@@ -29,7 +27,7 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 ## Misc
 
-🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, growing tech communities in Latam.
+🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping  communities in the tech space.
 
 💬 Ask me about: learning new things efficiently, overcoming procrastination/distractions/overwhelm, and doing more with less.
 
