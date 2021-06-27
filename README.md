@@ -20,7 +20,7 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 <img align="left" alt="Ubuntu Logo" height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
 
-<img align="left" alt="VSCode Logo" height="60" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+<img align="left" alt="VSCode Logo" height="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 
 <img align="left" alt="Vim Logo" height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png"><br><br>
 
