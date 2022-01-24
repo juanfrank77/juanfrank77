@@ -8,9 +8,9 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 ## What I'm doing 
 
-👨‍💻 I’m currently working as a Web Engineer at a company called [Huge](https://www.hugeinc.com/).
+👨‍💻 I’m not currently working as a Web Developer but rather as a writer & OSS community helper.
 
-📚 I'm learning more about UI development, web apps, accessibility, performance, and other related topics.
+📚 I'm learning more about writing, learning, focused productivity, and knowledge management.
 
 ## What I use
 
@@ -27,9 +27,9 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 ## Misc
 
-🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping  communities in the tech space.
+🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping out communities in the tech space.
 
-💬 Ask me about: learning new things efficiently, overcoming procrastination/distractions/overwhelm, and doing more with less.
+💬 Ask me about: learning new things efficiently, overcoming distraction & procrastination, and web user experience.
 
 You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.com) and reach out on [Twitter](https://twitter.com/juanfrank77)
 
