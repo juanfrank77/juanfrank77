@@ -8,9 +8,13 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 ## What I'm doing 
 
-👨‍💻 I’m not currently working as a Web Developer but rather as a writer & OSS community helper.
+👨‍💻 I’m currently working as a Freelance Web Developer and Writer.
 
-📚 I'm learning more about writing, learning, focused productivity, and knowledge management.
+🚧 I'm hacking away at a site for my learning notes and the V2.0 of [my website](https://www.juanfgonzalez.com)
+
+📚 I'm learning more about writing, meta-learning, focused productivity, and knowledge management.
+
+🎈 Fun fact: I was full into customer service and electronic music before working as a front-end dev.
 
 ## What I use
 
@@ -29,7 +33,7 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping out communities in the tech space.
 
-💬 Ask me about: learning new things efficiently, overcoming distraction & procrastination, and web user experience.
+💬 Ask me about: Using Git, web performance, learning new things quickly, and overcoming distractions.
 
 You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.com) and reach out on [Twitter](https://twitter.com/juanfrank77)
 
