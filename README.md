@@ -2,15 +2,17 @@
 
 <img align="right" src="https://raw.githubusercontent.com/juanfrank77/juanfrank77/master/tech-bg.png" alt="Tech Background">
 
-I'm Juan Gonzalez. A systems engineer with a kind of accidented career path. I have always been more interested in the user interface and its interaction with sites & apps. 
+I'm Juan Gonzalez. A systems engineer with an accidented career path. I have always been more interested in user interfaces and its application to sites & apps. 
 
-I want to make things look good, be intuitive of use and accessible to people across languages, borders and cultures.
+I like to make things look good, be of intuitive use and accessible to people across languages and locations.
+
+I'm always learning something new, improving myself constantly, and reaching out to others on a similar path.
 
 ## What I'm doing 
 
-👨‍💻 I’m currently working as a Freelance Web Developer and Writer.
+👨‍💻 I’m currently working as a Freelance content writer and developer.
 
-🚧 I'm hacking away at a site for my learning notes and the V2.0 of [my website](https://www.juanfgonzalez.com)
+🚧 I'm building the V2.0 of [my website](https://www.juanfgonzalez.com) and productizing my library of learning notes.
 
 📚 I'm learning more about writing, meta-learning, focused productivity, and knowledge management.
 
@@ -24,8 +26,6 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 <img align="left" alt="Ubuntu Logo" height="65" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/ubuntu.svg">
 
-<img align="left" alt="VSCode Logo" height="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-
 <img align="left" alt="Vim Logo" height="60" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png"><br><br>
 
 
@@ -33,9 +33,9 @@ I want to make things look good, be intuitive of use and accessible to people ac
 
 🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping out communities in the tech space.
 
-💬 Ask me about: Using Git, web performance, learning new things quickly, and overcoming distractions.
+💬 Ask me about: Using Git, user experience, learning new things efficienty, and upgrading your mental software.
 
-You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.com) and reach out on [Twitter](https://twitter.com/juanfrank77)
+You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.me) and reach out on [Twitter](https://twitter.com/juanfrank77)
 
 __Thanks for coming to my little place on Github!__
 
