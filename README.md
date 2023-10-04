@@ -4,23 +4,25 @@
 
 I'm Juan Gonzalez. A systems engineer with an accidented career path. I have always been more interested in user interfaces and its application to sites & apps. 
 
-I like to make things look good, be of intuitive use and accessible to people across languages and locations.
+I like to make things look good, intuitive to use and accessible to people across languages and locations.
 
-I'm always learning something new, improving myself constantly, and reaching out to others on a similar path.
+I'm always learning something new, improving myself, and looking for others on a similar path.
 
 ## What I'm doing 
 
-👨‍💻 I’m currently working as a Freelance content writer and developer.
+👨‍💻 I’m currently working as a technical writer and content creator.
 
-🚧 I'm building the V2.0 of [my website](https://www.juanfgonzalez.com) and productizing my library of learning notes.
+🚧 I'm procrastinating on building the V2.0 of [my website](https://www.juanfgonzalez.com) (hopefully any time soon).
 
-📚 I'm learning more about writing, meta-learning, focused productivity, and knowledge management.
+📚 I keep learning more about writing better, practical self-development, and now AI.
 
-🎈 Fun fact: I was full into customer service and electronic music before working as a front-end dev.
+🎈 Fun fact: I spent many years in customer service and electronic music before working as a front-end dev.
 
 ## What I use
 
 <img align="left" alt="JavaScript Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/javascript.svg">
+
+<img align="left" alt="Svelte Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/svelte.png">
 
 <img align="left" alt="Edge Logo" height="60" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/Microsoft_Edge_logo_2019.svg">
 
@@ -31,11 +33,13 @@ I'm always learning something new, improving myself constantly, and reaching out
 
 ## Misc
 
-🤝 I like to collaborate with others in open-source projects of knowledge management and edtech. Also, helping out communities in the tech space.
+❌ I strongly dislike TypeScript and haven't had to used it much. I've also never used TailwindCSS (and never will). 
 
-💬 Ask me about: Using Git, user experience, learning new things efficienty, and upgrading your mental software.
+🤝 I have collaborated with others in open-source projects related to knowledge management and edtech. 
 
-You can check out the stuff I've written on [my blog](https://blog.juanfgonzalez.me) and reach out on [Twitter](https://twitter.com/juanfrank77)
+💬 Ask me about: Writing online, learning new things in record time, and developing your human skills.
+
+You can check out stuff I've done [here](https://beacons.ai/juanfrank77) and reach out on [twitter](https://twitter.com/juanfrank77)
 
 __Thanks for coming to my little place on Github!__
 
